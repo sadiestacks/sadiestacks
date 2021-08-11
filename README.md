@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sadiestacks
-- 👀 I’m interested in DevOps
+- 👀 I’m interested in UX Design
 - 🌱 I’m currently learning how to build an iOS using bubble.io
 - 💞️ I’m looking to collaborate on iOS applications
 - 📫 How to reach me E: sadieatrealance@gmail.com
