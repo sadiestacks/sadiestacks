@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sadiestacks
-- 👀 I’m interested in AWS
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate AWS test projects
+- 👀 I’m interested in project management/cannabis tech 
+- 🌱 I’m currently learning node.js
+- 💞️ I’m looking to collaborate cannabis business
 - 📫 How to reach me E: sonderwithsadie@gmail.com
 
 <!---
