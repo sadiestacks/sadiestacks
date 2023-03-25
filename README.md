@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sadiestacks
-- 👀 I’m interested in project management/cannabis tech 
-- 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate cannabis business
-- 📫 How to reach me E: sonderwithsadie@gmail.com
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on projects 
+- 📫 How to reach me E: sadieframe@temple.edu
 
 <!---
 sadiestacks/sadiestacks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
