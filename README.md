@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sadiestacks
-- 👀 I’m interested in data science
+- 👋 Hi, I’m @sadiestacks // Sadie Frame
+- 👀 I’m interested in data science and analytics
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to get hired and get the max market value salary 
+- 💞️ I’m looking to become valued member of a team
 - 📫 How to reach me E: sadiemarieframe@gmail.com
 
 <!---
