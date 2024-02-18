@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sadiestacks // Sadie Frame
 - 👀 I’m interested in data science and analytics
 - 🌱 I’m currently studying machine learning
-- 💞️ I’m looking to become a valued member of a team
+- 💞️ I’m looking to diversify tech
 - 📫 How to reach me E: sadiemarieframe@gmail.com
 
 <!---
