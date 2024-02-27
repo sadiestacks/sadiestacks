@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sadiestacks // Sadie Frame
-- 👀 I’m interested in data science and analytics
-- 🌱 I’m currently studying machine learning
+- 👀 I’m interested in full-funnel products
+- 🌱 I’m currently improving Javascript skills
 - 💞️ I’m looking to diversify tech
 - 📫 How to reach me E: sadiemarieframe@gmail.com
 
